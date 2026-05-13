@@ -78,9 +78,9 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 
 Outil	Usage
 
-- 🟡 Power BI	Dashboard & visualisation
-- 📊 Python puis Power Query	Data cleaning
-- 📈 Python / Power BI	Exploration & insights
+- 🟡 Power BI	| Dashboard & visualisation
+- 📊 Python (Pandas, Ydata Profiling) puis Power Query | 	Data cleaning
+- 📈 Python (Pandas, Ydata Profiling) / Power BI	| Exploration & insights
 
 
 📂 Structure du projet
@@ -94,9 +94,9 @@ Outil	Usage
 👤 Auteur
 
 LIAUBET Pierre
-- 💼 Data Analyst
-- 🔗 LinkedIn : https://www.linkedin.com/in/pierre-liaubet-tourisme-data/
-- 📧 Email : pliaubetsu@gmail.com
+💼 Data Analyst
+🔗 LinkedIn : https://www.linkedin.com/in/pierre-liaubet-tourisme-data/
+📧 Email : pliaubetsu@gmail.com
 
 ⭐ Support
 
