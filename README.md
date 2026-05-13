@@ -30,7 +30,6 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 
 📊 Dataset
 
-Élément	Description
 - 🎮 Jeux	16 719
 - 📅 Période	1985 – 2016
 - ⭐ Données	Notes critiques & joueurs
