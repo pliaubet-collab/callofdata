@@ -1,5 +1,9 @@
-🎮 Call of Data
+**🎮 Projet Call of Data
+**
+
+
 📊 Analyse de la satisfaction des joueurs vs critiques
+
 
 
 🚀 Overview
@@ -39,52 +43,59 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 <img width="1481" height="810" alt="Capture d&#39;écran 2026-05-13 164800" src="https://github.com/user-attachments/assets/d8a81ba7-f40b-4c69-9299-a03f55320649" />
 
 
-![Dashboard](./assets/dashboard.png)
+
 🧠 Key Insights
 
 ✨ Ce que l’analyse révèle :
 
-📈 Depuis 2004, les critiques sont globalement plus positives que les joueurs
-💥 Certains jeux subissent des review bombings massifs
-⚠️ Les notes critiques créent parfois des attentes irréalistes
-🎯 L’expérience joueur ≠ perception des médias
+  📈 Depuis 2004, les critiques sont globalement plus positives que les joueurs
+  💥 Certains jeux subissent des review bombings massifs
+  ⚠️ Les notes critiques créent parfois des attentes irréalistes
+  🎯 L’expérience joueur ≠ perception des médias
+
+
 💡 Recommandations
+
 ⚡ Court terme
-Lancer des bêtas ouvertes
-Impliquer la communauté en amont
-Ne pas survaloriser les notes critiques
+  Lancer des bêtas ouvertes
+  Impliquer la communauté en amont
+  Ne pas survaloriser les notes critiques
+  
 📊 Moyen terme
-Exploiter la nostalgie 🎮
-→ remasters, remakes
+  Exploiter la nostalgie 🎮
+  → remasters, remakes
+
 🚀 Long terme
-Aligner :
-marketing
-produit réel
-Renforcer la collaboration :
-PR ↔ Dev teams
+  Aligner :
+    marketing
+    produit réel
+  Renforcer la collaboration :
+    PR ↔ Dev teams
+
+    
 🛠️ Tech Stack
+
 Outil	Usage
+
 🟡 Power BI	Dashboard & visualisation
-📊 Excel / CSV	Data cleaning
-📈 Data Analysis	Exploration & insights
+📊 Python puis Power Query	Data cleaning
+📈 Python / Power BI	Exploration & insights
+
+
 📂 Structure du projet
+
 📁 Call-of-Data
 │── 📄 README.md
 │── 📊 CallofData.pbix
-│── 📁 data/
-│── 📁 assets/
-│── 📁 exports/
-🔮 Améliorations futures
-🤖 Modèles prédictifs (Machine Learning)
-🌍 Données plus récentes
-📡 Dashboard interactif en ligne
-📊 KPIs business avancés
+│── 📄 CallofData.pdf
+│── 📄 pitch CallofData.pdf
+
 👤 Auteur
 
-Ton Nom
+LIAUBET Pierre
 💼 Data Analyst
-🔗 LinkedIn : (ajoute ton lien)
-📧 Email : (optionnel)
+🔗 LinkedIn : https://www.linkedin.com/in/pierre-liaubet-tourisme-data/
+📧 Email : pliaubetsu@gmail.com
 
 ⭐ Support
 
