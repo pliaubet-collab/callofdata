@@ -17,8 +17,8 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 
 
 🎯 Objectifs
-📊 Comparer notes joueurs vs critiques
-📉 Identifier les écarts de perception
+- 📊 Comparer notes joueurs vs critiques
+- 📉 Identifier les écarts de perception
 
 🕹️ Analyser les tendances par :
   année
