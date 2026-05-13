@@ -21,19 +21,20 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 - 📉 Identifier les écarts de perception
 
 🕹️ Analyser les tendances par :
-  année
-  plateforme
-  popularité
+ - année
+ - plateforme
+ - popularité
+
 🚨 Détecter des phénomènes comme le review bombing
 
 
 📊 Dataset
 
 Élément	Description
-🎮 Jeux	16 719
-📅 Période	1985 – 2016
-⭐ Données	Notes critiques & joueurs
-🕹️ Plateformes	Consoles + caractéristiques
+- 🎮 Jeux	16 719
+- 📅 Période	1985 – 2016
+- ⭐ Données	Notes critiques & joueurs
+- 🕹️ Plateformes	Consoles + caractéristiques
 
 
 📸 Dashboard Preview
@@ -48,54 +49,54 @@ Ce projet aide un département PR (Relations Client) à améliorer la satisfacti
 
 ✨ Ce que l’analyse révèle :
 
-  📈 Depuis 2004, les critiques sont globalement plus positives que les joueurs
-  💥 Certains jeux subissent des review bombings massifs
-  ⚠️ Les notes critiques créent parfois des attentes irréalistes
-  🎯 L’expérience joueur ≠ perception des médias
+  - 📈 Depuis 2004, les critiques sont globalement plus positives que les joueurs
+  - 💥 Certains jeux subissent des review bombings massifs
+  - ⚠️ Les notes critiques créent parfois des attentes irréalistes
+  - 🎯 L’expérience joueur ≠ perception des médias
 
 
 💡 Recommandations
 
 ⚡ Court terme
-  Lancer des bêtas ouvertes
-  Impliquer la communauté en amont
-  Ne pas survaloriser les notes critiques
+ - Lancer des bêtas ouvertes
+ - Impliquer la communauté en amont
+ - Ne pas survaloriser les notes critiques
   
 📊 Moyen terme
-  Exploiter la nostalgie 🎮
+ - Exploiter la nostalgie 🎮
   → remasters, remakes
 
 🚀 Long terme
-  Aligner :
-    marketing
-    produit réel
-  Renforcer la collaboration :
-    PR ↔ Dev teams
+  - Aligner :
+    - marketing
+    - produit réel
+  - Renforcer la collaboration :
+    - PR ↔ Dev teams
 
     
 🛠️ Tech Stack
 
 Outil	Usage
 
-🟡 Power BI	Dashboard & visualisation
-📊 Python puis Power Query	Data cleaning
-📈 Python / Power BI	Exploration & insights
+- 🟡 Power BI	Dashboard & visualisation
+- 📊 Python puis Power Query	Data cleaning
+- 📈 Python / Power BI	Exploration & insights
 
 
 📂 Structure du projet
 
 📁 Call-of-Data
-│── 📄 README.md
-│── 📊 CallofData.pbix
-│── 📄 CallofData.pdf
-│── 📄 pitch CallofData.pdf
+- │── 📄 README.md
+- │── 📊 CallofData.pbix
+- │── 📄 CallofData.pdf
+- │── 📄 pitch CallofData.pdf
 
 👤 Auteur
 
 LIAUBET Pierre
-💼 Data Analyst
-🔗 LinkedIn : https://www.linkedin.com/in/pierre-liaubet-tourisme-data/
-📧 Email : pliaubetsu@gmail.com
+- 💼 Data Analyst
+- 🔗 LinkedIn : https://www.linkedin.com/in/pierre-liaubet-tourisme-data/
+- 📧 Email : pliaubetsu@gmail.com
 
 ⭐ Support
 
